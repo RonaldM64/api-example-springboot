@@ -11,6 +11,7 @@
 	<groupId>com.ingenio360.api</groupId>
 	<artifactId>web-api-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>jar</packaging>
 	<name>web-api-example</name>
 	<description>Aplicacion de APIS para Springboot</description>
 	<url/>
